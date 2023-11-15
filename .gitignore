@@ -1,0 +1,13 @@
+# Exclude raw and processed CTD data
+data/source/CTD/Raw/*
+data/source/CTD/Processed/*
+
+# Exclude bottle data
+data/new/bottle_data/*
+
+# Exclude netcdf (output) files
+*.nc
+
+# Exclude checkpoint files
+code/.ipynb_checkpoints/*
+
