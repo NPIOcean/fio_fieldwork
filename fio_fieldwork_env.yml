@@ -17,7 +17,7 @@ dependencies:
   - xarray=2023.10.1
   - pip=23.2.1
   - obspy=1.4.0
-  - pyrsktools
 
   - pip:
      - seabird==0.12.0
+     - pyrsktools
