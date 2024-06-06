@@ -23,4 +23,3 @@ dependencies:
      - seabird==0.12.0
      - pyrsktools
      - sympy
-     - h5py
