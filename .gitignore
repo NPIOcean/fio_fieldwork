@@ -11,3 +11,6 @@ data/new/bottle_data/*
 # Exclude checkpoint files
 code/.ipynb_checkpoints/*
 
+code/mm_solv_temp.npz
+code/M2_series.mat
+code/M2_series.mat
