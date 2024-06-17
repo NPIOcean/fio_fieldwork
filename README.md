@@ -8,7 +8,7 @@ To create the conda environment *fio_seismics* on your system (and download the 
 
 To activate the environment, enter:
 
-`mamba activate fio_fieldwork`
+`conda activate fio_fieldwork`
 
 Now, assuming you are still in the base folder of the project repository (where this file is located),  start *jupyterlab*:
 

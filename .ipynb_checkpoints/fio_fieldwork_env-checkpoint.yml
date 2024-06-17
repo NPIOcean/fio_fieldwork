@@ -18,10 +18,11 @@ dependencies:
   - pip=23.2.1
   - obspy=1.4.0
   - gdal=3.8.0
-  - PyQt5==5.9.2
 
   - pip:
      - seabird==0.12.0
      - pyrsktools
      - sympy
      - h5py
+     - pyqt5
+     - statsmodels

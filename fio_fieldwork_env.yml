@@ -25,3 +25,4 @@ dependencies:
      - sympy
      - h5py
      - pyqt5
+     - statsmodels
