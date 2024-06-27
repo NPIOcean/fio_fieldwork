@@ -26,3 +26,4 @@ dependencies:
      - h5py
      - pyqt5
      - statsmodels
+     - SkillMetrics
