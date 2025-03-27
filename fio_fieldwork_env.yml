@@ -27,3 +27,4 @@ dependencies:
      - pyqt5
      - statsmodels
      - SkillMetrics
+     - Julian
